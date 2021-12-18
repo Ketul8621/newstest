@@ -1,46 +1,206 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 70,
   "articles": [
     {
-      "source": { "id": "news24", "name": "News24" },
-      "author": "Kamva Somdyala",
-      "title": "Omicron Covid-19 variant claims Proteas ODI series against Netherlands",
-      "description": "CSA in conjunction with the Koninklijke Nederlandse Cricket Bond (KNCB) have resolve to postpone the ODI series between the Proteas and the Netherlands following the detection of the Omicron Covid-19 variant.",
-      "url": "https://www.news24.com/sport/Cricket/Proteas/omicron-covid-19-variant-claims-proteas-odi-series-against-netherlands-20211127",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/657/d116c60c0aa44d03b18d9d87f9f99374.jpg",
-      "publishedAt": "2021-11-27T14:01:52+00:00",
-      "content": "Cricket South Africa (CSA) in conjunction with the Koninklijke Nederlandse Cricket Bond (KNCB) have resolve to hold the ODI series between the Proteas and the Netherlands which began on Friday in abe… [+2307 chars]"
+      "source": { "id": null, "name": "Inverse" },
+      "author": "Sean Martin",
+      "title": "'Genshin Impact' Arataki Itto build: Best weapons and artifacts for max damage - Inverse",
+      "description": "Arataki Itto is a rambunctious new Geo character in 'Genshin Impact,' and if you want this Oni king to be your top damage-dealer, follow these build tips.",
+      "url": "https://www.inverse.com/gaming/genshin-impact-arataki-itto-best-build-f2p-weapons-artifacts",
+      "urlToImage": "https://imgix.bustle.com/uploads/image/2021/12/13/810a7ece-e159-4fa2-bc50-a840f0d609ec-genshin-impact-itto-build-2.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "publishedAt": "2021-12-13T21:23:04Z",
+      "content": "The one and Oni Arataki Itto\r\n has finally arrived in Genshin Impact (as of December 14, anyway). Now that the Albedo and Eula reruns have ended, as well as the Shadows Amidst Snowstorms event, the s… [+5562 chars]"
     },
     {
-      "source": { "id": "nbc-news", "name": "NBC News" },
-      "author": "Ananta Agarwal",
-      "title": "India has an eroding image of tolerance in the West. A recent cricket loss proves why.",
-      "description": "In India, a Hindu-majority country, ethno-religious tensions with its Muslim-minority, boiled over after defeat to Pakistan in the cricket T20 World Cup.",
-      "url": "https://www.nbcnews.com/news/world/india-eroding-image-tolerance-west-recent-cricket-loss-proves-rcna6788",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211126-pak-ind-cricket-mb-1439-9a0b46.jpg",
-      "publishedAt": "2021-11-27T11:17:54Z",
-      "content": "When India meets its archrival Pakistan on the cricket field, even those who do not follow the sport sit up and watch. But at the opening match of the T20 World Cup late last month, they were in for … [+8227 chars]"
-    },
-    {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "source": { "id": "google-news", "name": "Google News" },
       "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      "title": "Xiaomi Watch S1 tipped to launch in European and Asian markets in Q1 2022 - gizmochina",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjEvMTIvMTMveGlhb21pLXdhdGNoLXMxLXRpcHBlZC10by1sYXVuY2gtaW4tZXVyb3BlYW4tYW5kLWFzaWFuLW1hcmtldHMtaW4tcTEtMjAyMi_SAXZodHRwczovL3d3dy5naXptb2NoaW5hLmNvbS8yMDIxLzEyLzEzL3hpYW9taS13YXRjaC1zMS10aXBwZWQtdG8tbGF1bmNoLWluLWV1cm9wZWFuLWFuZC1hc2lhbi1tYXJrZXRzLWluLXExLTIwMjIvP2FtcD0x?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-12-13T19:00:42Z",
+      "content": null
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "source": { "id": null, "name": "TechSpot" },
+      "author": "Adrian Potoroaca",
+      "title": "Xiaomi working on improved lithium-ion batteries for future smartphones - TechSpot",
+      "description": "Earlier this year, an MIT study revealed the price of lithium-ion batteries has fallen by more than 97 percent since their commercial introduction in 1991. This dramatic...",
+      "url": "https://www.techspot.com/news/92598-xiaomi-working-improved-lithium-ion-batteries-future-smartphones.html",
+      "urlToImage": "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-13-image-19.jpg",
+      "publishedAt": "2021-12-13T18:31:00Z",
+      "content": "Why it matters: It may not look like it, but lithium-ion battery tech is getting better with every passing year. Silicon-doped anodes are the next frontier, and companies like Xiaomi have been workin… [+2106 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XDA Developers" },
+      "author": "Mahmoud Itani",
+      "title": "Apple has released macOS 12.1, here’s what’s new - XDA Developers",
+      "description": "Apple has released macOS 12.1 to the public globally, after over a month of beta testing it. Here's what's new in this release.",
+      "url": "https://www.xda-developers.com/apple-released-macos-12-1/",
+      "urlToImage": "https://www.xda-developers.com/files/2021/10/facetime-grid-view-macos-12-monterey.jpg",
+      "publishedAt": "2021-12-13T18:20:00Z",
+      "content": "Apple has released macOS 12.1 to the public, after beta testing it for over a month. This release doesnt bring plenty of notable features. However, it fixes some of the major bugs Mac users have been… [+4845 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Authority" },
       "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      "title": "OnePlus GCam mods don't work on Oxygen OS 12 - Android Authority",
+      "description": "Unless OnePlus makes some fundamental changes to Oxygen OS 12, OnePlus GCam mods (and other camera apps) won't work on its phones.",
+      "url": "https://www.androidauthority.com/oneplus-gcam-oxygen-os-12-3074950/",
+      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/OnePlus-9-Pro-vs-OnePlus-9-cameras.jpg",
+      "publishedAt": "2021-12-13T18:06:38Z",
+      "content": "<ul><li>OnePlus GCam mods and other third-party camera apps dont work correctly with Oxygen OS 12.</li><li>The phone software limits all third-party camera apps to only using the primary sensor.</li>… [+2612 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Notebookcheck.net" },
+      "author": "Alex Alderson",
+      "title": "China and the US to receive Snapdragon 8 Gen 1 versions of the Galaxy S22 and Galaxy S22 Plus as more dummy units leak - Notebookcheck.net",
+      "description": "Samsung is gearing to release Snapdragon-powered editions of the Galaxy S22 and Galaxy S22 Plus in China and the US. The pair, along with the Galaxy S22 Note, have also appeared in more hands-on photos. All photos appear to be of dummy units.",
+      "url": "https://www.notebookcheck.net/China-and-the-US-to-receive-Snapdragon-8-Gen-1-versions-of-the-Galaxy-S22-and-Galaxy-S22-Plus-as-more-dummy-units-leak.584865.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/FGfxGTFVgAAI5qt.jpeg",
+      "publishedAt": "2021-12-13T17:27:34Z",
+      "content": "Earlier today, we reported that Ice Universe had shared a prototype or a dummy unit of the Galaxy S22. Now, @heyitsyogesh has leaked two photos of the entire Galaxy S22 series in two colours. While n… [+1281 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GSMArena.com" },
+      "author": "Michail",
+      "title": "iQOO 9 and 9 Pro certified with 120W charging - GSMArena.com news - GSMArena.com",
+      "description": "The pair is expected to debut in China next month.",
+      "url": "https://www.gsmarena.com/iqoo_9_and_9_pro_certified_with_120w_charging-news-52265.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/12/iqoo-9-series-120w-charging-certification/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2021-12-13T16:19:01Z",
+      "content": "While were waiting for the iQOO Neo5s series to debut on December 20 the brands next-gen flagships secured new certifications on Chinas 3C platform. iQOO 9 (vivo V2171A) and 9 Pro (vivo V2172A) come … [+432 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Asus Chromebook CX1101 with military-grade durability, USB Type-C fast charging launched in India for Rs 19,999 - The Financial Express",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiqwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9pbmR1c3RyeS90ZWNobm9sb2d5L2FzdXMtY2hyb21lYm9vay1jeDExMDEtd2l0aC1taWxpdGFyeS1ncmFkZS1kdXJhYmlsaXR5LXVzYi10eXBlLWMtZmFzdC1jaGFyZ2luZy1sYXVuY2hlZC1pbi1pbmRpYS1mb3ItcnMtMTk5OTAvMjM4Nzg4OS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-12-13T16:13:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Aisha Malik",
+      "title": "Instagram now lets users reply to comments with Reels - TechCrunch",
+      "description": "Instagram has rolled out a new “Reels Visual Replies” feature that lets users reply to comments on posts with Reels. Now, when users choose to reply to a comment, they’ll see a new option that allows them to select the Reels button to create a video reply. Th…",
+      "url": "http://techcrunch.com/2021/12/13/instagram-now-lets-users-reply-to-comments-with-reels/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/instagram-reels-replies.jpeg?w=764",
+      "publishedAt": "2021-12-13T16:00:44Z",
+      "content": "Instagram has rolled out a new “Reels Visual Replies” feature that lets users reply to comments on posts with Reels. Now, when users choose to reply to a comment, they’ll see a new option that allows… [+2665 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Tech Desk",
+      "title": "Sony announces new PS5 faceplates in a range of colours - The Indian Express",
+      "description": "Sony have announced new galaxy-inspired covers and controller variants for the Playstation 5.",
+      "url": "https://indianexpress.com/article/technology/gaming/sony-announces-new-ps5-faceplates-in-a-range-of-colours-7671121/",
+      "urlToImage": "https://images.indianexpress.com/2021/12/PS5-new-covers-and-controller-colors-featured.jpg",
+      "publishedAt": "2021-12-13T15:12:42Z",
+      "content": "Sony has finally announced custom covers and new controller variants for the PlayStation 5. The accessories will be available in new galaxy-inspired colours and are scheduled to launch in select terr… [+1557 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PhoneArena" },
+      "author": "Peter Kostadinov",
+      "title": "OnePlus Nord 2 CE specs leak, revealing key improvements - PhoneArena",
+      "description": "OnePlus might be keeping it tame with the upcoming OnePlus Nord 2 CE, which has just leaked on the interwebs.",
+      "url": "https://www.phonearena.com/news/OnePlus-Nord-2-CE-specs-leak-revealing-key-improvements_id137085",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/137085-wide-two_1200/OnePlus-Nord-2-CE-specs-leak-revealing-key-improvements.jpg",
+      "publishedAt": "2021-12-13T14:03:17Z",
+      "content": "As 2022 is almost upon us, almost all Android manufacturers are readying themselves to release their wares upon us. OnePlus seemingly also prepping itself for a pounce, as not only is the flagship On… [+2239 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Motorola Moto G31 unboxing - Recombu",
+      "description": "The Moto G31 is the cheapest smartphone in Motorola’s new G series, but that doesn’t mean it’s short of features. Watch as we unbox the phone, which comes wi...",
+      "url": "https://www.youtube.com/watch?v=oSV1A2oNfwo",
+      "urlToImage": "https://i.ytimg.com/vi/oSV1A2oNfwo/hqdefault.jpg",
+      "publishedAt": "2021-12-13T13:47:44Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "91mobiles" },
+      "author": null,
+      "title": "[Exclusive] Dizo Watch 2 special sports edition and Dizo Watch R India launch timeline revealed - 91mobiles",
+      "description": "Dizo Watch special sports edition and Dizo Watch R will be launching in India by January end and they should be priced affordably similar to other Dizo products.",
+      "url": "https://www.91mobiles.com/hub/exclusive-dizo-watch-2-special-sports-edition-dizo-watch-r-india-launch-timeline-revealed/",
+      "urlToImage": "https://www.91-cdn.com/hub/wp-content/uploads/2021/12/Realme-DIZO-Watch-header.jpg",
+      "publishedAt": "2021-12-13T13:18:02Z",
+      "content": "Dizo is set to launch two new smartwatches in India: the Dizo Watch 2 special sports edition and Dizo Watch R. They will be made available in the country by January-end and should be on sale via Flip… [+828 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Firstpost" },
+      "author": null,
+      "title": "MSI launches Creator Z16 laptop in India with 11th generation Intel Core processor: Check prices and specs - Firstpost",
+      "description": "The MSI Creator Z16 laptops feature Intel Core i7 and i9 processors with Nvidia GeForce RTX 3060 graphics; priced at Rs 2,40,990 and Rs 2,57,990 respectively.",
+      "url": "https://www.firstpost.com/tech/news-analysis/msi-launches-creator-z16-laptop-in-india-with-11th-generation-intel-core-processor-check-prices-and-specs-10208121.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/12/MSI-Creator-Z16-laptop-launched-in-India.jpg",
+      "publishedAt": "2021-12-13T12:33:28Z",
+      "content": "FP TrendingDec 13, 2021 18:03:28 IST\r\nMSI, a leading gaming brand, has introduced its latest high-performance Creator Z16 laptops in India. These laptops are powered by 11th generation Intel Core i9 … [+1620 chars]"
+    },
+    {
+      "source": { "id": null, "name": "91mobiles" },
+      "author": null,
+      "title": "Redmi Note 11 4G global model said to feature Snapdragon 680 SoC; price tipped - 91mobiles",
+      "description": "Redmi Note 11 4G global model price could start at USD 199 (approx Rs 15,000) and the phone will come with the Snapdragon 680 instead of MediaTek Helio G88.",
+      "url": "https://www.91mobiles.com/hub/redmi-note-11-4g-global-model-snapdragon-680-price-tipped/",
+      "urlToImage": "https://www.91-cdn.com/hub/wp-content/uploads/2021/12/redmi-note-11-4g-feat-1.jpg",
+      "publishedAt": "2021-12-13T12:15:49Z",
+      "content": "Redmi Note 11 4G launching in global markets\r\nAccording to The Pixel, the Redmi Note 11 4G is said to be powered by the Qualcomm Snapdragon 680 SoC globally. The global model is expected to have a tr… [+1415 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News18" },
+      "author": "Tech Desk",
+      "title": "MacBook Air, Mac Mini and More: Everything Apple May Launch in Early 2022 - News18",
+      "description": "Apple MacBook Air 2022, Mac mini 2022, iPhone SE 2022 and more - here's what Apple may launch next year.",
+      "url": "https://www.news18.com/news/tech/macbook-air-mac-mini-and-more-everything-apple-may-launch-in-early-2022-4550177.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/11/apple_logo-163817187916x9.jpg",
+      "publishedAt": "2021-12-13T11:25:02Z",
+      "content": "2021 was a big year for Apple, as the company continued to expand its proprietary ARM-based silicon chips on MacBook and iMac PCs. We saw the introduction of M1 Pro and M1 Max chipsets for MacBook Pr… [+2274 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GamesIndustry.biz" },
+      "author": "James Batchelor",
+      "title": "Google Play Games app coming to Windows in 2022 - GamesIndustry.biz",
+      "description": "Software will enable users to play mobile games on laptops and desktops, won't rely on cloud streaming",
+      "url": "https://www.gamesindustry.biz/articles/2021-12-13-google-play-games-app-coming-to-windows-in-2022",
+      "urlToImage": "https://images.gnwcdn.com/2021/articles/2021-12-13-10-52/google_play_games_pc.jpg",
+      "publishedAt": "2021-12-13T10:56:42Z",
+      "content": "Share this article\r\nCompanies in this article\r\nGoogle\r\nMicrosoft\r\nGoogle is bringing its mobile games marketplace to the PC ecosystem next year.\r\nThe company shared a teaser video during The Game Awa… [+785 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Www.bgr.in" },
+      "author": "Karanveer Singh Arora",
+      "title": "PUBG Mobile offering Anna charecter for free to all players: How to get - BGR India",
+      "description": "By completing a long list of relatively simple objectives you can get Character Vouchers you can use in place of UC when unlocking Anna.",
+      "url": "https://www.bgr.in/gaming/pubg-mobile-offering-anna-character-for-free-to-all-players-how-to-get-1027730/",
+      "urlToImage": "https://st1.bgr.in/wp-content/uploads/2021/12/PUBG-Mobile-Anna.jpg",
+      "publishedAt": "2021-12-13T10:55:09Z",
+      "content": "Krafton is currently reminding PUBG Mobile players to unlock the Anna character for free before she is removed. To recall, Anna was added to the game on November 30. To get the character for free, pl… [+1844 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GSMArena.com" },
+      "author": "Michail",
+      "title": "Huawei Watch D spotted in live hands-on shots - GSMArena.com news - GSMArena.com",
+      "description": "It will offer advanced blood pressure measurements.",
+      "url": "https://www.gsmarena.com/huawei_watch_d_spotted_in_live_handson_shots-news-52255.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/12/huawei-watch-d-live-shots/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2021-12-13T10:12:01Z",
+      "content": "Huaweis latest smartwatch - Watch D is all set to be unveiled on December 23 alongside the Mate V clamshell foldable. Just ahead of the event we get more details on the health features of the Watch D… [+938 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "Nithya P Nair",
+      "title": "Lava Probuds N2 Neckband Earphones With Upto 12-Hour Music Playback Time Launched in India - Gadgets 360",
+      "description": "Lava Probuds N2 earphones have been launched in India on Monday. The neckband-style Bluetooth earphones come with IPX4-rated sweat- and water-resistance. They feature magnetic locks and support dual connectivity as well.",
+      "url": "https://gadgets.ndtv.com/audio/news/lava-probuds-n2-earphones-price-in-india-rs-1199-launch-december-13-specifications-features-2648714",
+      "urlToImage": "https://i.gadgets360cdn.com/large/lava_probuds_n2_neckband_earphones_website_1639387589163.jpg",
+      "publishedAt": "2021-12-13T09:36:35Z",
+      "content": "Lava Probuds N2 neckband-style wireless earphones were launched in India on Monday. The in-ear Bluetooth earphones are offered in two colour options and feature 10mm dynamic drivers that are claimed … [+2495 chars]"
     }
   ]
 }
